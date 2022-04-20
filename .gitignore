@@ -133,6 +133,7 @@ answer_files.sh
 
 # html files
 type-annotations.html
+async-python.html
 
 # python test files
 *-main.py
