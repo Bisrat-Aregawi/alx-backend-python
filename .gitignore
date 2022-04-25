@@ -132,8 +132,7 @@ dmypy.json
 answer_files.sh
 
 # html files
-type-annotations.html
-async-python.html
+*.html
 
 # python test files
 *-main.py
