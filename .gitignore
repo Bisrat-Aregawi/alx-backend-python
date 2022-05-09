@@ -136,3 +136,8 @@ answer_files.sh
 
 # python test files
 *-main.py
+
+# 0x03-Unittests_and_integration_tests required files
+utils.py
+client.py
+fixtures.py
